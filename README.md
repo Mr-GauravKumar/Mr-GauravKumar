@@ -18,6 +18,16 @@ AI-powered applications • Backend APIs • OCR Pipelines • Recommendation Sy
 
 I build AI-powered applications, backend systems, and machine learning workflows focused on automation, scalability, and real-world deployment.
 
+• Pursuing BS Degree in Data Science and Applications from IIT Madras
+• Completed schooling from Kendriya Vidyalaya
+• Interested in Machine Learning, Data Science, Backend Development and AI Applications
+• Skilled in Python, Flask, FastAPI, Streamlit, SQL and Machine Learning fundamentals
+• Built projects involving recommendation systems, REST APIs, ML pipelines and data analysis
+• Currently exploring LLM applications, deployment workflows and scalable backend systems
+• Practicing Data Structures and Algorithms regularly to strengthen problem-solving skills
+• Passionate about building practical, real-world software solutions through hands-on projects
+
+
 ### 🚀 Current Focus
 
 * FastAPI backend engineering
