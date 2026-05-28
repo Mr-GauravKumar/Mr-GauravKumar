@@ -84,15 +84,17 @@ Python • FastAPI • Flask • SQL • OCR • Machine Learning • AI Automat
 
 ---
 
-# 📊 GitHub Analytics
+# 🚀 Engineering Focus
 
-<p align="center">
+Currently building and exploring:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-gaurav-kumar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-gaurav-kumar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+* AI-powered backend systems
+* OCR-driven automation workflows
+* FastAPI application architecture
+* Recommendation systems
+* Intelligent financial systems
+* Production-ready ML applications
+* RAG and LLM pipelines
 
 ---
 
