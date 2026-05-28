@@ -16,38 +16,24 @@ AI-powered applications • Backend APIs • OCR Pipelines • Recommendation Sy
 
 # 👨‍💻 About Me
 
-```python
-class GauravKumar:
+I build AI-powered applications, backend systems, and machine learning workflows focused on automation, scalability, and real-world deployment.
 
-    def __init__(self):
-        self.role = "ML Engineer & Backend Developer"
-        self.language_spoken = ["Python", "SQL"]
-        self.specialization = [
-            "Machine Learning",
-            "Backend APIs",
-            "OCR Automation",
-            "Recommendation Systems",
-            "AI Applications"
-        ]
+### 🚀 Current Focus
 
-    def current_focus(self):
-        return [
-            "FastAPI Backend Systems",
-            "Production-ready AI Applications",
-            "RAG Pipelines",
-            "AI Workflow Automation",
-            "ML Deployment"
-        ]
+* FastAPI backend engineering
+* AI workflow automation
+* OCR + intelligent document processing
+* Recommendation systems
+* RAG & LLM applications
+* Production-ready ML systems
 
-    def future_goal(self):
-        return "Building scalable AI infrastructure and intelligent systems"
+### 🎯 Goal
 
-me = GauravKumar()
-```
+Designing scalable AI infrastructure and intelligent applications that solve practical business problems.
 
 ---
 
-# 🚀 Tech Stack
+# 🧠 Tech Stack
 
 <p align="center">
 
@@ -102,9 +88,9 @@ Python • FastAPI • Flask • SQL • OCR • Machine Learning • AI Automat
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-gaurav-kumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-gaurav-kumar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-gaurav-kumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-gaurav-kumar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -113,20 +99,21 @@ Python • FastAPI • Flask • SQL • OCR • Machine Learning • AI Automat
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-gaurav-kumar&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-gaurav-kumar&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 Current Focus
+# 🔥 Current Engineering Interests
 
-* Building scalable AI applications
-* FastAPI backend engineering
-* AI workflow automation
-* OCR + intelligent document processing
-* Recommendation systems
-* RAG & LLM pipelines
-* Production-ready ML systems
+* AI Systems
+* Backend APIs
+* OCR Automation
+* Recommendation Engines
+* RAG Pipelines
+* Intelligent Workflows
+* ML Deployment
+* Scalable AI Infrastructure
 
 ---
 
